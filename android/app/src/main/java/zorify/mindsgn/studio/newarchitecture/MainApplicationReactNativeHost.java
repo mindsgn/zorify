@@ -1,4 +1,4 @@
-package com.zora.newarchitecture;
+package zorify.mindsgn.studio.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.zora.BuildConfig;
-import com.zora.newarchitecture.components.MainComponentsRegistry;
-import com.zora.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import zorify.mindsgn.studio.BuildConfig;
+import zorify.mindsgn.studio.newarchitecture.components.MainComponentsRegistry;
+import zorify.mindsgn.studio.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
