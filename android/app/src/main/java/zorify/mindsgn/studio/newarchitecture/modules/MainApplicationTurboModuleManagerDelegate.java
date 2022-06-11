@@ -1,4 +1,4 @@
-package com.zora.newarchitecture.modules;
+package zorify.mindsgn.studio.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
